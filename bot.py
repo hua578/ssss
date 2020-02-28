@@ -106,7 +106,8 @@ def updateProfileVideoPicture(self, path):
             raise Exception('You should install FFmpeg and ffmpy from pypi')
 def helpmessage():
     helpMessage = """
- ╾ ╾ ╾ ╾ ╾ ╾ ╾ ╾ ╾ ╾
+ ╾ ╾ ╾ ╾ ╾ ╾ ╾ ╾
+ ╾ ╾
 ▕        機器狀態
 ▕  重啟 - 重新啟動
 ▕  運行 - 機器運行
@@ -114,8 +115,10 @@ def helpmessage():
 ▕  設定 - 機器設定
 ▕  撤退 - 機器退群
 ▕  狀態 - 查看狀態
-  ╾ ╾ ╾ ╾ ╾ ╾ ╾ ╾ ╾ ╾ 
-  ╾ ╾ ╾ ╾ ╾ ╾ ╾ ╾ ╾ ╾
+  ╾ ╾ ╾ ╾ ╾ ╾ ╾ ╾
+ ╾ ╾ 
+  ╾ ╾ ╾ ╾ ╾ ╾ ╾ ╾
+ ╾ ╾
 ▕        群組設定
 ▕   邀請保護 開/關
 ▕   網址保護 開/關
@@ -995,7 +998,7 @@ def lineBot(op):
                     wait2['setTime'][msg.to] = datetime.strftime(now2,"%H:%M")
                     wait2['ROM'][msg.to] = {}
                     print ("設置已讀點")
-                elif msg.text in ["刪讀已讀","Delread"]:
+                elif msg.text in ["已讀 關","Delread"]:
                     cl.sendMessage(to, "刪除已讀點 ")
                     try:
                         del wait2['readPoint'][msg.to]
