@@ -1,0 +1,543 @@
+
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] list.remove(x): x not in list
+[<module 'time' (built-in)>] list.remove(x): x not in list
+[<module 'time' (built-in)>] list.remove(x): x not in list
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='Invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='Invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='Invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c6bba4788ce1e10cd7a7e3dff6e45db79', parameterMap={'2': 'c6bba4788ce1e10cd7a7e3dff6e45db79'})
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='LOG_OUT', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c58df99cfef19152a96ec5180d82890a5', parameterMap={'2': 'c58df99cfef19152a96ec5180d82890a5'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cdefb4a373160bd96bef8b6d39f7d2299', parameterMap={'2': 'cdefb4a373160bd96bef8b6d39f7d2299'})
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: '華哥'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: '華哥'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: ''
+[<module 'time' (built-in)>] invalid literal for int() with base 10: ''
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c309b5ef1b87f3c498f0a7937f967725d', parameterMap={'2': 'c309b5ef1b87f3c498f0a7937f967725d'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c309b5ef1b87f3c498f0a7937f967725d', parameterMap={'2': 'c309b5ef1b87f3c498f0a7937f967725d'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c309b5ef1b87f3c498f0a7937f967725d', parameterMap={'2': 'c309b5ef1b87f3c498f0a7937f967725d'})
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] invalid literal for int() with base 10: ''
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c4b63b7a2febc4dcac0505d83df971f9f', parameterMap={'2': 'c4b63b7a2febc4dcac0505d83df971f9f'})
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] invalid literal for int() with base 10: '駕！'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: '駕！'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] invalid literal for int() with base 10: '可以私訊'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c19bda668fe2f8c502b57f0f45fd4d548', parameterMap={'2': 'c19bda668fe2f8c502b57f0f45fd4d548'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c19bda668fe2f8c502b57f0f45fd4d548', parameterMap={'2': 'c19bda668fe2f8c502b57f0f45fd4d548'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c19bda668fe2f8c502b57f0f45fd4d548', parameterMap={'2': 'c19bda668fe2f8c502b57f0f45fd4d548'})
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'Liang'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: '可以先去看看群組記事本唷'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(code=99, reason='group key member mismatch', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1676855726, 967905486', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
